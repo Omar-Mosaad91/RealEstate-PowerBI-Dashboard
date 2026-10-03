@@ -9,11 +9,6 @@
 ## 📋 Table of Contents / محتويات المشروع
 - [Project Overview / نظرة عامة على المشروع](#-project-overview)
 - [Dashboard Previews & Sections / معاينة الأقسام واللوحات](#-dashboard-previews--sections)
-  - [1. Cover / الغلاف الرئيسي](#1-cover--الغلاف-الرئيسي)
-  - [2. Home (Overview) / الصفحة الرئيسية ونظرة عامة](#2-home-overview--الصفحة-الرئيسية-ونظرة-عامة)
-  - [3. Sales & Clients Analytics / تحليل المبيعات والعملاء](#3-sales--clients-analytics--تحليل-المبيعات-والعملاء)
-  - [4. Property Portfolio & Characteristics / محفظة العقارات والخصائص](#4-property-portfolio--characteristics--محفظة-العقارات-والخصائص)
-  - [5. Financial & Expense Breakdown / التفاصيل المالية والمصروفات](#5-financial--expense-breakdown--التفاصيل-المالية-والمصروفات)
 - [Key Features / المميزات الرئيسية](#-key-features)
 - [How to Use / كيفية الاستخدام](#-how-use)
 
@@ -27,38 +22,46 @@
 ## 🖼️ Dashboard Previews & Sections / معاينة الأقسام واللوحات
 
 ### 1. Cover / الغلاف الرئيسي
-* **الوصف:** الواجهة الترحيبية للمشروع بتصميم فاخر يعكس هوية النظام (Your Gateway to Luxury Properties Worldwide).
-![Cover](Screenshots/Cover.jpg)
+* **الوصف:** الواجهة الترحيبية للمشروع بتصميم فاخر يعكس هوية النظام.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Cover.jpg" alt="Cover" width="100%">
+</p>
 
 ### 2. Home (Overview) / الصفحة الرئيسية ونظرة عامة
-* **المؤشرات الرئيسية (KPIs):** إجمالي المبيعات ($96.2M)، إجمالي المصروفات ($29.6M)، صافي الربح ($66.6M)، وعدد العقارات المباعة (160 عقار).
-![Home](Screenshots/Home.jpg)
+* **المؤشرات الرئيسية (KPIs):** إجمالي المبيعات، إجمالي المصروفات، صافي الربح، وعدد العقارات المباعة.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Home.jpg" alt="Home" width="100%">
+</p>
 
 ### 3. Sales & Clients Analytics / تحليل المبيعات والعملاء
-* **المؤشرات الرئيسية:** إجمالي المبيعات، إجمالي العملاء (12 عميل)، متوسط سعر العقار، وعدد العقارات المباعة، بالإضافة إلى جدول أداء الوسطاء والمندوبين.
-![Sales](Screenshots/Sales.jpg)
+* **المؤشرات الرئيسية:** تحليل أداء المبيعات والعملاء والوسطاء.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Sales.jpg" alt="Sales" width="100%">
+</p>
 
 ### 4. Property Portfolio & Characteristics / محفظة العقارات والخصائص
-* **المؤشرات الرئيسية:** إجمالي العقارات (200 عقار)، متوسط سعر العقار ($586.5K)، ومتوسط المساحة وعدد الغرف.
-![Property](Screenshots/Property.jpg)
+* **المؤشرات الرئيسية:** توزيع العقارات والخصائص المساحية.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Property.jpg" alt="Property" width="100%">
+</p>
 
 ### 5. Financial & Expense Breakdown / التفاصيل المالية والمصروفات
-* **المؤشرات الرئيسية:** إجمالي المبيعات ($25.5M)، إجمالي المصروفات ($8.7M)، صافي الربح ($16.8M)، وهامش الربح (52%).
-![Financial](Screenshots/Financial.jpg)
+* **المؤشرات الرئيسية:** تفاصيل المصروفات والأرباح والمواقع الجغرافية.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Financial.jpg" alt="Financial" width="100%">
+</p>
 
 ---
 
 ## 🛠️ Key Features / المميزات الرئيسية
 * **تفاعل متقدم (Interactivity):** فلاتر ديناميكية للتحكم في العرض حسب الشهر، السنة، نوع المصروف، ونوع العقار.
-* **تصميم مرئي مميز (UI/UX):** استخدام لوحة ألوان داكنة أنيقة (Dark Theme) تناسب قطاع العقارات الفاخرة مع بطاقات مؤشرات واضحة.
-* **شمولية البيانات:** ربط البيانات المالية، الجغرافية، وسلوك العملاء في مكان واحد لسهولة اتخاذ القرار.
+* **تصميم مرئي مميز (UI/UX):** استخدام لوحة ألوان داكنة أنيقة تناسب قطاع العقارات الفاخرة.
 
 ---
 
 ## 🚀 How to Use / كيفية الاستخدام
 1. قم بفتح ملف لوحة القيادة باستخدام برنامج **Power BI Desktop**.
-2. تأكد من ربط مصدر البيانات (Data Source) في حال رغبتك بتحديث الأرقام أو ربطها بقاعدة بيانات حقيقية.
-3. استعرض الصفحات المختلفة عبر القائمة الجانبية (Sidebar Navigation) للتنقل بين نظرة عامة، المبيعات، العقارات، والتقارير المالية.
+2. استعرض الصفحات المختلفة عبر القائمة الجانبية للتنقل بين الأقسام.
 
 ---
 © **Omar Mosaad Ahmed** - All Rights Reserved.
