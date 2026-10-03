@@ -28,23 +28,23 @@
 
 ### 1. Cover / الغلاف الرئيسي
 * **الوصف:** الواجهة الترحيبية للمشروع بتصميم فاخر يعكس هوية النظام (Your Gateway to Luxury Properties Worldwide).
-![Cover](./Cover.jpg)
+![Cover](Screenshots/Cover.jpg)
 
 ### 2. Home (Overview) / الصفحة الرئيسية ونظرة عامة
 * **المؤشرات الرئيسية (KPIs):** إجمالي المبيعات ($96.2M)، إجمالي المصروفات ($29.6M)، صافي الربح ($66.6M)، وعدد العقارات المباعة (160 عقار).
-![Home](./Home.jpg)
+![Home](Screenshots/Home.jpg)
 
 ### 3. Sales & Clients Analytics / تحليل المبيعات والعملاء
 * **المؤشرات الرئيسية:** إجمالي المبيعات، إجمالي العملاء (12 عميل)، متوسط سعر العقار، وعدد العقارات المباعة، بالإضافة إلى جدول أداء الوسطاء والمندوبين.
-![Sales](./Sales.jpg)
+![Sales](Screenshots/Sales.jpg)
 
 ### 4. Property Portfolio & Characteristics / محفظة العقارات والخصائص
 * **المؤشرات الرئيسية:** إجمالي العقارات (200 عقار)، متوسط سعر العقار ($586.5K)، ومتوسط المساحة وعدد الغرف.
-![Property](./Property.jpg)
+![Property](Screenshots/Property.jpg)
 
 ### 5. Financial & Expense Breakdown / التفاصيل المالية والمصروفات
 * **المؤشرات الرئيسية:** إجمالي المبيعات ($25.5M)، إجمالي المصروفات ($8.7M)، صافي الربح ($16.8M)، وهامش الربح (52%).
-![Financial](./Financial.jpg)
+![Financial](Screenshots/Financial.jpg)
 
 ---
 
