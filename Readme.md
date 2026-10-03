@@ -24,31 +24,31 @@
 ### 1. Cover / الغلاف الرئيسي
 * **الوصف:** الواجهة الترحيبية للمشروع بتصميم فاخر يعكس هوية النظام.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Cover.jpg" alt="Cover" width="100%">
+  <img src="https://github.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/raw/main/Screenshots/Cover.jpg" alt="Cover" width="100%">
 </p>
 
 ### 2. Home (Overview) / الصفحة الرئيسية ونظرة عامة
 * **المؤشرات الرئيسية (KPIs):** إجمالي المبيعات، إجمالي المصروفات، صافي الربح، وعدد العقارات المباعة.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Home.jpg" alt="Home" width="100%">
+  <img src="https://github.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/raw/main/Screenshots/Home.jpg" alt="Home" width="100%">
 </p>
 
 ### 3. Sales & Clients Analytics / تحليل المبيعات والعملاء
 * **المؤشرات الرئيسية:** تحليل أداء المبيعات والعملاء والوسطاء.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Sales.jpg" alt="Sales" width="100%">
+  <img src="https://github.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/raw/main/Screenshots/Sales.jpg" alt="Sales" width="100%">
 </p>
 
 ### 4. Property Portfolio & Characteristics / محفظة العقارات والخصائص
 * **المؤشرات الرئيسية:** توزيع العقارات والخصائص المساحية.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Property.jpg" alt="Property" width="100%">
+  <img src="https://github.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/raw/main/Screenshots/Property.jpg" alt="Property" width="100%">
 </p>
 
 ### 5. Financial & Expense Breakdown / التفاصيل المالية والمصروفات
 * **المؤشرات الرئيسية:** تفاصيل المصروفات والأرباح والمواقع الجغرافية.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/main/Screenshots/Financial.jpg" alt="Financial" width="100%">
+  <img src="https://github.com/Omar-Mosaad91/RealEstate-PowerBI-Dashboard/raw/main/Screenshots/Financial.jpg" alt="Financial" width="100%">
 </p>
 
 ---
